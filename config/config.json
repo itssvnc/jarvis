@@ -1,0 +1,18 @@
+{
+  "wake_word": "hey jarvis",
+  "wake_word_threshold": 0.5,
+  "whisper_model": "medium",
+  "whisper_language": "en",
+  "ollama_model": "llama3.2:3b",
+  "ollama_model_full": "qwen2.5:7b",
+  "ollama_url": "http://localhost:11434",
+  "ollama_keep_alive": "0",
+  "ollama_gpu_layers_gaming": 0,
+  "ollama_gpu_layers_full": 99,
+  "piper_model": "en_US-lessac-high",
+  "piper_rate": 1.0,
+  "audio_device": null,
+  "notification_duration": 4000,
+  "gaming_mode": false,
+  "log_conversations": true
+}
